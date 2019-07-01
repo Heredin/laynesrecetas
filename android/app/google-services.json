@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "708113788535",
-    "firebase_url": "https://recetaapp-24be6.firebaseio.com",
-    "project_id": "recetaapp-24be6",
-    "storage_bucket": "recetaapp-24be6.appspot.com"
+    "project_number": "84710665680",
+    "firebase_url": "https://recetasaplication.firebaseio.com",
+    "project_id": "recetasaplication",
+    "storage_bucket": "recetasaplication.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:708113788535:android:bfd31fd2f26e3d11",
+        "mobilesdk_app_id": "1:84710665680:android:bfd31fd2f26e3d11",
         "android_client_info": {
           "package_name": "com.example.laynes_recetas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "708113788535-2c6b2jb0hjjt43d6gbf5d0c4nfo7b5tq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.laynes_recetas",
-            "certificate_hash": "188a028bb3d51030f7c43f49f75a704584f432a8"
-          }
-        },
-        {
-          "client_id": "708113788535-tu0h3cerqpqollftgf617j6anp0r0dmj.apps.googleusercontent.com",
+          "client_id": "84710665680-59jd6li1ar644tgeg09konh5dofubdgp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDyF5rznY8i1SHiRJXOflyjBv8SI9gq3mc"
+          "current_key": "AIzaSyALcn6WqY5Sbzx4QTdqrF7QZkxAcBYxKQI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "708113788535-tu0h3cerqpqollftgf617j6anp0r0dmj.apps.googleusercontent.com",
+              "client_id": "84710665680-59jd6li1ar644tgeg09konh5dofubdgp.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
